@@ -46,6 +46,7 @@ Framework used :
     b) After that, read that folder one by one and pick audio files one by one using OS library.
     
     c) Then read audio files using LIBROSA library. Used mfccs feature provided in librosa library and extracted features from the audio files and make the dataset.
+    
     d) Now we have to build model, beacuse we have completed preprocessing to our data.
     
     
