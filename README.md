@@ -80,14 +80,23 @@ Framework used :
 
 **Some Glimpses of Our Project :-**
 
+**1) Home Page :---**
 ![o1](https://user-images.githubusercontent.com/61588604/119258243-7e411a00-bbe6-11eb-8efe-bbd46f4159eb.png)
 
 ![o2](https://user-images.githubusercontent.com/61588604/119258248-81d4a100-bbe6-11eb-9f8d-c5c887eeb3e3.png)
 
+---------------------
+
+**2) Predictor Page :---**
+
 ![o3](https://user-images.githubusercontent.com/61588604/119258249-8305ce00-bbe6-11eb-85d4-38780b13e3f8.png)
+
+---------------------
+
+**3) About Project Page:---**
 
 ![o4](https://user-images.githubusercontent.com/61588604/119258250-8305ce00-bbe6-11eb-9e08-aac50d031d2d.png)
 
 
---------------------------------------------------------------------------------------------------------------
+**<<<<<------------------------------------------------------------------------------------------->>>>>**
  
